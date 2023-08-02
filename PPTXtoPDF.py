@@ -53,6 +53,7 @@ def search_for_pptx_files(folder_path):
 
 while True:
     search_for_pptx_files("C:\\Users\\jeand\\My Drive\\University")
-    time.sleep(1)
+    time.sleep(5)
+    # no need for 1 second, changed it to 5
 
 
